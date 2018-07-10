@@ -4,8 +4,6 @@ rainbow_colors = [
   "light_cyan"
 ]
 
-puts rainbow_colors[0]
-
 def change_rainbow_colors
   # Write a solution that corrects the three colors in rainbow_colors, then returns the corrected array
   array = []
